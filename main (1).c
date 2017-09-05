@@ -1,5 +1,5 @@
 //Nome: Thiago Henrique Viotto   RA: 187583
-//Nome: Vitória Maria Guimarães  RA: 188530
+//Nome: Kaulitz GuimarÃ£es  RA: 188530
 
 #include<stdio.h>
 #include<stdlib.h>
